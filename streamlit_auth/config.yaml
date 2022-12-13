@@ -1,0 +1,21 @@
+cookie:
+  expiry_days: 0
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    ggg:
+      email: guillaume@gmail.com
+      name: Guillaume GG
+      password: $2b$12$/.9NqfQ6XpXpOlC1GaH31OizZfT/zcUuBaW5L5DNYleA4mFXLOc6C
+    mat:
+      email: mathieu.dombrie@meandu.com.au
+      name: Mathieu
+      password: $2b$12$C8zFJzpiZu018WCO6kj1muQDDPaLaC43Xks1NyL0To4P9/bS7/mTy
+    natalia:
+      email: natalia.fernandez@meandu.com.au
+      name: Natalia Fernandez
+      password: $2b$12$to1ADtwtCOFGMFNow7iJj.GjWWqy6FOEeeBjl/c.FmCZBSkf2bCr.
+preauthorized:
+  emails:
+  - guillaume.grasset-gothon@meandu.com.au
