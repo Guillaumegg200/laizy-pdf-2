@@ -11,7 +11,7 @@ credentials:
     mat:
       email: mathieu.dombrie@meandu.com.au
       name: Mathieu
-      password: $2b$12$C8zFJzpiZu018WCO6kj1muQDDPaLaC43Xks1NyL0To4P9/bS7/mTy
+      password: 
     natalia:
       email: natalia.fernandez@meandu.com.au
       name: Natalia Fernandez
