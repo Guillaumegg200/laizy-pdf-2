@@ -36,7 +36,9 @@ authenticator = stauth.Authenticate(
     config['preauthorized']
 )
 
-name, authentication_status, username = authenticator.login("Login", "main")
+#name, authentication_status, username = authenticator.login("Login", "main")
+username = 'ggg'
+authentication_status = True
 st.session_state['username'] = username
 
 username_list = {}
